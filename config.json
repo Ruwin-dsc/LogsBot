@@ -1,0 +1,22 @@
+{
+    "token": "",
+    "salon": {
+        "note": "Si vous souhaitez ne pas utilisez une système de logs laissez vide",
+        "msgEdit": "",
+        "msgSuppr": "",
+        "msgBulk": "",
+        "joinMember": "",
+        "leaveMember": "",
+        "invitecre": "",
+        "invitedel": "",
+        "saloncre": "",
+        "salondel": "",
+        "rolecre": "",
+        "roledel": "",
+        "channelupd": "",
+        "roleupd": "", 
+        "emojicre": "",
+        "emojidel": "",
+        "voice": ""
+    }
+}
